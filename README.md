@@ -29,4 +29,4 @@ I am a student and later intended to work remotely and travel a lot.
 <br />
 <code><img src="https://e7.pngegg.com/pngimages/666/502/png-clipart-brand-php-logo-computer-file-product-breeze-blue-text-thumbnail.png" width="50px"></code>
 <code><img src="https://images.squarespace-cdn.com/content/v1/5d092c5193b409000129adc4/1561157959942-T5OICBFA7NHD7BAHEC4O/mysql-logo.png" width="50px"></code>
-<code><img src="https://images.squarespace-cdn.com/content/v1/5d092c5193b409000129adc4/1561157959942-T5OICBFA7NHD7BAHEC4O/mysql-logo.png" width="50px"></code>
+<code><img src="https://www.erossoft.com/wp-content/themes/eros-soft-solutions/images/symfony-logo1.png" width="50px"></code>
