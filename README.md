@@ -15,3 +15,4 @@ I am a student and later intended to work remotely and travel a lot.
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4yjkg9qkU3O5_MGvfe-9WQtEO1ITBMcGxYLlPdmmTfflMavH8CziFXZLec6Dxqseswk&usqp=CAU" width="70px"</code>
 <code><img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" width="70px"</code>
 <code><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" width="70px"</code>
+<code><img src="https://img.stackshare.io/service/7374/react-redux.png" width="70px"</code>
