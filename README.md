@@ -11,8 +11,7 @@ I am a student and later intended to work remotely and travel a lot.
 <br/>
 <br/>
 <code><img src="https://www.vhv.rs/dpng/d/479-4795524_transparent-css3-logo-png-html-and-css-logos.png" width="100px"</code>
-<code><img src="https://pngset.com/images/javascript-logo-quintagroup-text-first-aid-symbol-trademark-transparent-png-1949434.png" width="100px"</code>
+<code><img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" width="30px"</code>
 <code><img src="https://p7.hiclipart.com/preview/509/571/818/cascading-style-sheets-logo-css3-html-web-development-world-wide-web.jpg" width="30px"</code>
 <code><img src="https://p7.hiclipart.com/preview/509/571/818/cascading-style-sheets-logo-css3-html-web-development-world-wide-web.jpg" width="30px"</code>
 <code><img src="https://p7.hiclipart.com/preview/509/571/818/cascading-style-sheets-logo-css3-html-web-development-world-wide-web.jpg" width="30px"</code>
-
