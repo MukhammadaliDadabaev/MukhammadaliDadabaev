@@ -14,15 +14,15 @@ I am a student and later intended to work remotely and travel a lot.
 ### Languages and tools I work with:
 
 
-<code><img src="https://www.vhv.rs/dpng/d/479-4795524_transparent-css3-logo-png-html-and-css-logos.png" width="100px"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="70px"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4yjkg9qkU3O5_MGvfe-9WQtEO1ITBMcGxYLlPdmmTfflMavH8CziFXZLec6Dxqseswk&usqp=CAU" width="70px"></code>
-<code><img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" width="70px"></code>
-<code><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" width="70px"></code>
-<code><img src="https://img.stackshare.io/service/7374/react-redux.png" width="70px"></code>
+<code><img src="https://www.vhv.rs/dpng/d/479-4795524_transparent-css3-logo-png-html-and-css-logos.png" width="90px"></code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="60px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4yjkg9qkU3O5_MGvfe-9WQtEO1ITBMcGxYLlPdmmTfflMavH8CziFXZLec6Dxqseswk&usqp=CAU" width="60px"></code>
+<code><img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" width="60px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" width="60px"></code>
+<code><img src="https://img.favpng.com/2/23/2/redux-react-javascript-vue-js-single-page-application-png-favpng-nrQkizLk5ZV7m4qQJK5NZMCja.jpg" width="60px"></code>
 <br />
 <br />
-<code><img src="https://logo-download.com/wp-content/data/images/svg/Node.js-logo.svg" width="70px"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2l-4Y-ZVZm77rzV9CRJxmgNPpy36zgePIA&usqp=CAU" width="70px"></code>
-<code><img src="https://www.freebsdnews.com/wp-content/uploads/mongodb.png" width="70px"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2l-4Y-ZVZm77rzV9CRJxmgNPpy36zgePIA&usqp=CAU" width="70px"></code>
+<code><img src="https://logo-download.com/wp-content/data/images/svg/Node.js-logo.svg" width="60px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2l-4Y-ZVZm77rzV9CRJxmgNPpy36zgePIA&usqp=CAU" width="60px"></code>
+<code><img src="https://www.freebsdnews.com/wp-content/uploads/mongodb.png" width="40px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2l-4Y-ZVZm77rzV9CRJxmgNPpy36zgePIA&usqp=CAU" width="60px"></code>
