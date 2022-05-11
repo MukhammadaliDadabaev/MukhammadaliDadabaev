@@ -32,8 +32,8 @@ I am a student and later intended to work remotely and travel a lot.
 <code><img src="https://www.erossoft.com/wp-content/themes/eros-soft-solutions/images/symfony-logo1.png" width="50px"></code>
 
 <br />
-- 🏤 &nbsp; Current location: Namangan, Uzbekistan
+- 🏤 &nbsp; Current location: &nbsp; Namangan, Uzbekistan
 <br />
 - 📝 &nbsp; Ask me about anything, I am happy to help
 <br />
-- 📩 &nbsp; How to reach me: [mukhammadalidadabaev](https://t.me/Mukhammad_Ali_1950/)
+- 📩 &nbsp; How to reach me: &nbsp; <a href="https://t.me/Mukhammad_Ali_1950">mukhammadali</a>
