@@ -20,6 +20,9 @@ I am a student and later intended to work remotely and travel a lot.
 <code><img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" width="70px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" width="70px"></code>
 <code><img src="https://img.stackshare.io/service/7374/react-redux.png" width="70px"></code>
-<br/>
+<br />
+<br />
 <code><img src="https://logo-download.com/wp-content/data/images/svg/Node.js-logo.svg" width="70px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2l-4Y-ZVZm77rzV9CRJxmgNPpy36zgePIA&usqp=CAU" width="70px"></code>
+<code><img src="https://www.freebsdnews.com/wp-content/uploads/mongodb.png" width="70px"></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2l-4Y-ZVZm77rzV9CRJxmgNPpy36zgePIA&usqp=CAU" width="70px"></code>
