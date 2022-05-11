@@ -1,4 +1,4 @@
-### Hi, I`m Mukhammadali Dadabaev <br/>
+### Hi, I`m Mukhammadali Dadabaev
 <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47om5ur35a959thuluokmre42hdeo1ozzmvdgw4px3&rid=giphy.gif&ct=s" width="100px"/> 
 
 <!--
