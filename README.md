@@ -13,5 +13,5 @@ I am a student and later intended to work remotely and travel a lot.
 <code><img src="https://www.vhv.rs/dpng/d/479-4795524_transparent-css3-logo-png-html-and-css-logos.png" width="100px"</code>
 <code><img src="https://logowik.com/content/uploads/images/3799-javascript.jpg" width="70px"</code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="70px"</code>
-<code><img src="https://thumbnail.imgbin.com/11/3/1/imgbin-sass-style-sheet-language-cascading-style-sheets-logo-sass-AXc8cF57K0X6RvW6afT8eDQcL_t.jpg" width="70px"</code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4yjkg9qkU3O5_MGvfe-9WQtEO1ITBMcGxYLlPdmmTfflMavH8CziFXZLec6Dxqseswk&usqp=CAU" width="70px"</code>
 <code><img src="https://p7.hiclipart.com/preview/509/571/818/cascading-style-sheets-logo-css3-html-web-development-world-wide-web.jpg" width="30px"</code>
