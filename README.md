@@ -1,4 +1,4 @@
-### Hi, I`m Mukhammadli Dadabaev <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47om5ur35a959thuluokmre42hdeo1ozzmvdgw4px3&rid=giphy.gif&ct=s"/> 
+### Hi, I`m Mukhammadli Dadabaev <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47om5ur35a959thuluokmre42hdeo1ozzmvdgw4px3&rid=giphy.gif&ct=s" width="100px"/> 
 
 <!--
 **MukhammadaliDadabaev/MukhammadaliDadabaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
