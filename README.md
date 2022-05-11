@@ -1,4 +1,4 @@
-### Hi, I`m Mukhammadali Dadabaev <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47om5ur35a959thuluokmre42hdeo1ozzmvdgw4px3&rid=giphy.gif&ct=s" width="50px"/> 
+### Hi, I`m Mukhammadali Dadabaev <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="50px"/> 
 
 <!--
 **MukhammadaliDadabaev/MukhammadaliDadabaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
