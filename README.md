@@ -33,5 +33,7 @@ I am a student and later intended to work remotely and travel a lot.
 
 <br />
 - 🏤 &nbsp; Current location: Namangan, Uzbekistan
+<br />
 - 📝 &nbsp; Ask me about anything, I am happy to help
-- 📩 &nbsp; How to reach me: [mukhammadalidadabaev](https://t.me/Mukhammad_Ali_1950)
+<br />
+- 📩 &nbsp; How to reach me: [mukhammadalidadabaev](https://t.me/Mukhammad_Ali_1950/)
