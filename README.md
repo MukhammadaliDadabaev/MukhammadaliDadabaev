@@ -10,6 +10,7 @@ I am a student and later intended to work remotely and travel a lot.
 <a/>
 <br/>
 <br/>
+### Languages and tools I work with:
 <code><img src="https://www.vhv.rs/dpng/d/479-4795524_transparent-css3-logo-png-html-and-css-logos.png" width="100px"</code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="70px"</code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA4yjkg9qkU3O5_MGvfe-9WQtEO1ITBMcGxYLlPdmmTfflMavH8CziFXZLec6Dxqseswk&usqp=CAU" width="70px"</code>
