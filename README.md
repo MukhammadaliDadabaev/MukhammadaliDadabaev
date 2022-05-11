@@ -3,7 +3,7 @@
 I am a student and later intended to work remotely and travel a lot.
 
 <a href="https://t.me/Mukhammad_Ali_1950">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ4H8M-XIArEPOTiIkn3WvKLsbJWkIUFyKVw&usqp=CAU" width="30px"/>
+  <img src="https://image.similarpng.com/very-thumbnail/2021/01/Telegram-icon-on-transparent-PNG.png" width="30px"/>
 <a/>
 <a href="ali_6017@mail.ru">Email<a/>
 
