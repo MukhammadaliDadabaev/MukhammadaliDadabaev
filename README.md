@@ -9,8 +9,9 @@ I am a student and later intended to work remotely and travel a lot.
 <img src="https://cutewallpaper.org/24/icon-email-png/icon-distributor-png-email-contact-us-logo-transparent-email-icon-png-bluelogo-email-png-free-transparent-png-images-pngaaacom.png" width="30px"/>
 <a/>
 <br/>
-<br/>
-Languages and tools I work with:
+<br />
+
+### Languages and tools I work with:
 
 
 <code><img src="https://www.vhv.rs/dpng/d/479-4795524_transparent-css3-logo-png-html-and-css-logos.png" width="100px"</code>
