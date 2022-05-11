@@ -2,6 +2,6 @@
 
 I am a student and later intended to work remotely and travel a lot.
 
-<a href="https://t.me/Mukhammad_Ali_1950"><a/>
+<a href="https://t.me/Mukhammad_Ali_1950">Telegram<a/>
 
 
