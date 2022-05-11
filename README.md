@@ -2,7 +2,7 @@
 
 I am a student and later intended to work remotely and travel a lot.
 
-<a href="https://t.me/Mukhammad_Ali_1950"><i class="fab fa-telegram-plane"></i><a/>
+<a href="https://t.me/Mukhammad_Ali_1950"><i class="fa-brands fa-telegram"></i><a/>
 <a href="ali_6017@mail.ru">Email<a/>
 
 
