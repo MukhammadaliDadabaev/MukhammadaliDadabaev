@@ -22,11 +22,16 @@ I am a student and later intended to work remotely and travel a lot.
 <code><img src="https://img.favpng.com/2/23/2/redux-react-javascript-vue-js-single-page-application-png-favpng-nrQkizLk5ZV7m4qQJK5NZMCja.jpg" width="60px"></code>
 <br />
 <br />
-<code><img src="https://logo-download.com/wp-content/data/images/svg/Node.js-logo.svg" width="60px"></code>
-<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2l-4Y-ZVZm77rzV9CRJxmgNPpy36zgePIA&usqp=CAU" width="60px"></code>
-<code><img src="https://www.freebsdnews.com/wp-content/uploads/mongodb.png" width="40px"></code>
+<code><img src="https://logo-download.com/wp-content/data/images/svg/Node.js-logo.svg" width="70px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv2l-4Y-ZVZm77rzV9CRJxmgNPpy36zgePIA&usqp=CAU" width="70px"></code>
+<code><img src="https://www.freebsdnews.com/wp-content/uploads/mongodb.png" width="50px"></code>
 <br />
 <br />
 <code><img src="https://e7.pngegg.com/pngimages/666/502/png-clipart-brand-php-logo-computer-file-product-breeze-blue-text-thumbnail.png" width="50px"></code>
 <code><img src="https://images.squarespace-cdn.com/content/v1/5d092c5193b409000129adc4/1561157959942-T5OICBFA7NHD7BAHEC4O/mysql-logo.png" width="50px"></code>
 <code><img src="https://www.erossoft.com/wp-content/themes/eros-soft-solutions/images/symfony-logo1.png" width="50px"></code>
+
+<br />
+- 🏤 &nbsp; Current location: Namangan, Uzbekistan
+- 📝 &nbsp; Ask me about anything, I am happy to help
+- 📩 &nbsp; How to reach me: [mukhammadalidadabaev](https://t.me/Mukhammad_Ali_1950)
